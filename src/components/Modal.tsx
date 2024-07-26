@@ -1,7 +1,20 @@
 /* eslint-disable react/prop-types */
 import React from 'react'
 import './Modal.css'
-export const Modal = ({
+
+type Props = {
+  open?:() => void,
+  onClose?: () => void,
+  children?: string
+  styleBox?: string
+  styleClose?: string
+  styleTitle?: string
+  styleDesc?: string
+  title?: string
+  description?: string
+}
+
+export const Modal: React.FC<Props> =  ({
   open,
   onClose,
   children,

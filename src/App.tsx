@@ -2,6 +2,7 @@ import React from 'react'
 import {Modal} from './components/Modal'
 import { useState } from 'react'
 
+
 function App() {
   const [open, setOpen] = useState(true)
   return (
