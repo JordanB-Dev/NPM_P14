@@ -9,9 +9,9 @@ Composant React Modal
 
 > ## **Installation**
 
-> $ npm i react-vite-component-modal
+$ npm i react-vite-component-modal
 
-> $ yarn add react-vite-component-modal
+$ yarn add react-vite-component-modal
 
 > ## **Example**
 >
