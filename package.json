@@ -2,7 +2,7 @@
   "name": "react-vite-component-modal",
   "private": false,
   "description": "React Modal Component",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "type": "module",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
