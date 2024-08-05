@@ -21,7 +21,7 @@ Add in your tailwind.config.js file
 
 > ## **Example 1**
 >
-> ![Screenshot_1](https://image.noelshack.com/fichiers/2024/32/1/1722874749-screenshot-2.png)
+> ![Screenshot_1](https://camo.githubusercontent.com/8aa25db2ab6299b7d1e153f321db6260d39f676950e36b3ff86ad19d6eca6755/68747470733a2f2f696d6167652e6e6f656c736861636b2e636f6d2f66696368696572732f323032342f33322f312f313732323837343734392d73637265656e73686f742d322e706e67)
 >
 > ![Screenshot_2](https://camo.githubusercontent.com/58857243cb5b7c857d187d074dd4da5fe0a0a082ceac3e34fc0ce22f9710eaef/68747470733a2f2f692e676f6f706963732e6e65742f6771746273372e706e67)
 
