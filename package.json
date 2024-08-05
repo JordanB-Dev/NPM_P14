@@ -21,7 +21,8 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/JordanB-Dev",
+  "homepage": "https://github.com/JordanB-Dev/NPM_P14",
+  "author": "https://github.com/JordanB-Dev",
   "license": "MIT",
   "keywords": [
     "React",
