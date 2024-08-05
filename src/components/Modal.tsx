@@ -1,10 +1,10 @@
 /* eslint-disable react/prop-types */
 import React from 'react'
-import './Modal.css'
+import '../index.css'
 
 type Props = {
-  open?:() => void,
-  onClose?: () => void,
+  open?: () => void
+  onClose?: () => void
   children?: string
   styleBox?: string
   styleClose?: string
@@ -12,9 +12,10 @@ type Props = {
   styleDesc?: string
   title?: string
   description?: string
+  position?: string
 }
 
-export const Modal: React.FC<Props> =  ({
+export const Modal: React.FC<Props> = ({
   open,
   onClose,
   children,
@@ -24,11 +25,12 @@ export const Modal: React.FC<Props> =  ({
   styleDesc,
   title,
   description,
+  position,
 }) => {
   return (
     <div
       onClick={onClose}
-      className={`fixed inset-0 flex justify-center items-center transition-colors ${open ? 'visible bg-black/10 z-50' : 'invisible'}`}
+      className={`${position ? position : 'fixed inset-0 flex justify-center items-center transition-colors'} ${open ? 'visible bg-black/10 z-50' : 'invisible'}`}
     >
       <div
         onClick={(e) => e.stopPropagation()}

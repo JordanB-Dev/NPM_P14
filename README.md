@@ -15,7 +15,7 @@ $ yarn add react-vite-component-modal
 
 > ## **Example 1**
 >
-> ![Screenshot_1](https://camo.githubusercontent.com/b9f8790a50594cbd59d6800b526a4087228fef22d8c0fb390dd0da08d2e56059/68747470733a2f2f696d6167652e6e6f656c736861636b2e636f6d2f66696368696572732f323032342f33312f312f313732323236323933362d73637265656e73686f742d312e706e67)
+> ![Screenshot_1](https://image.noelshack.com/fichiers/2024/32/1/1722874364-screenshot-1.png)
 >
 > ![Screenshot_2](https://camo.githubusercontent.com/58857243cb5b7c857d187d074dd4da5fe0a0a082ceac3e34fc0ce22f9710eaef/68747470733a2f2f692e676f6f706963732e6e65742f6771746273372e706e67)
 

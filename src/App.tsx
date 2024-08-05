@@ -1,7 +1,6 @@
 import React from 'react'
-import {Modal} from './components/Modal'
+import { Modal } from './components/Modal'
 import { useState } from 'react'
-
 
 function App() {
   const [open, setOpen] = useState(true)
@@ -10,7 +9,8 @@ function App() {
       <Modal
         open={open}
         description={'Employee Created !'}
-        onClose={() => setOpen(false)} children={undefined} styleBox={undefined} styleClose={undefined} styleTitle={undefined} styleDesc={undefined} title={undefined}      />
+        onClose={() => setOpen(false)}
+      />
     </>
   )
 }
