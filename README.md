@@ -13,6 +13,17 @@ $ npm i react-vite-component-modal
 
 $ yarn add react-vite-component-modal
 
+## **Tailwind.config.js**
+
+Add in your tailwind.config.js file
+
+> content: [
+>
+> > './index.html',
+> > './src/**/\*.{js,ts,jsx,tsx}',
+> > './node_modules/react-vite-component-modal/**/\*.{js,ts,jsx,tsx}',
+> > ],
+
 > ## **Example 1**
 >
 > ![Screenshot_1](https://image.noelshack.com/fichiers/2024/32/1/1722874364-screenshot-1.png)
