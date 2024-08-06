@@ -33,5 +33,5 @@ Add in your tailwind.config.js file
 
 > ## **Version**
 
-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> ReactJS ^18.3.1
-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Tailwind" width="40" height="40"/> </a> Tailwindcss ^3.4.3
+- ReactJS ^18.3.1
+- Tailwindcss ^3.4.3
